@@ -1,0 +1,5 @@
+[
+    { "title": "Disney", "subtitle": "New arrival", "image": "assets/images/product/banner1.jpg" },
+    { "title": "Crayola", "subtitle": "Sale up to 30%.", "image": "assets/images/product/banner2.jpg" },
+    { "title": "maisto", "subtitle": "New arrival.", "image": "assets/images/product/banner3.jpg" }
+  ]
